@@ -1,0 +1,3 @@
+flet
+sentence-transformers
+pillow
